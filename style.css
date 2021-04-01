@@ -134,7 +134,7 @@ header h3{
     border: solid 1px;
 }
 
-.weAreWorld {
+.bg-world {
     background: #fff9f3;
 }
 
@@ -179,10 +179,6 @@ header h3{
     color: azure;
     top: 25%;
     left: 35%;
-}
-
-.CEOfounder {
-    background: #fff9f3;
 }
 
 .partenaire {
