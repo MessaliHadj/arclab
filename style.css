@@ -29,6 +29,10 @@ header img {
     display: flex;
 }
 
+.fatherNavBarMob {
+    display: none;
+}
+
 ul{
     display: flex;
     list-style: none;
@@ -195,4 +199,14 @@ footer li a{
 
 .bg-besoin {
     background: rgb(51, 79, 108);
+}
+
+@media only screen and (max-width: 600px) {
+    .fatherNavBar {
+        display: none;
+    }
+
+    .fatherNavBarMob {
+        display: block;
+    }
 }
